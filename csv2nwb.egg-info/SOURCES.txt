@@ -1,0 +1,10 @@
+LICENSE
+README.md
+setup.py
+csv2nwb/__init__.py
+csv2nwb/main.py
+csv2nwb/path_id.py
+csv2nwb.egg-info/PKG-INFO
+csv2nwb.egg-info/SOURCES.txt
+csv2nwb.egg-info/dependency_links.txt
+csv2nwb.egg-info/top_level.txt
