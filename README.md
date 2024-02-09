@@ -13,8 +13,7 @@ The most important advantage of this initiative is to interactively communicate 
 To start using the package:
 1.  I recommend to set up a new [conda environment](https://docs.conda.io/en/latest/miniconda.html) with the following dependencies:
 
-* pynwb==2.3.2
-* python==3.11.3
+* pynwb
 
 2. install the csv2nwb package from this repository by simply cloning and installing it locally,
 ```
