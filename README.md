@@ -40,7 +40,7 @@ an interactive dialog-box would appear to choose the root directory of the exper
 on the same directory level of the selected root marked with the time of conversion, including separate nwb files. For a test run, you could navigate to the `./data/test-example/test-root` (hypothetical experimental sessions) and just hit select, from thereon it will automatically convert all the sessions and save it to the folder on the same directory level of the `test-root`.
 
 ## Use cases
-A functional project-oriented use case of this initiavtive is `dcl2nwb` [find it here](https://github.com/Defense-Circuits-Lab/dcl2nwb).
+A functional project-oriented use case of this initiative is `dcl2nwb` [find it here](https://github.com/Defense-Circuits-Lab/dcl2nwb).
 
 ## Author
 * Hamidreza Alimohammadi (alimohammadi.hamidreza@gmail.com)
